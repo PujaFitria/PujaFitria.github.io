@@ -1,0 +1,22 @@
+.navbar {
+    background-color: rgb(110, 170, 83);
+}
+.home {
+    padding: 6rem;
+    background-color: rgb(146, 196, 81);
+}
+#about {
+    background-color: rgb(98, 163, 38);
+}
+#hobby {
+    background-color: rgb(59, 161, 50);
+}
+#contact {
+    background-color: rgb(68, 150, 48);
+}
+.text-white {
+    background-color: rgb(110, 170, 83);
+}
+section {
+    padding-top: 5rem;
+}
